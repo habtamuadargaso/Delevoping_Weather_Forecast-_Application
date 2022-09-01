@@ -8,9 +8,9 @@ For this project, we will import python library files and a Weather report API K
 Install the required Python packages using the pip command. Make sure you have pip installed on your system.
 
 step1 : Run the following command in your command prompt.
-
+```
 "pip3 install opencv-python qrcode numpy Image " step 2: or you can install them one by one as
-
+``
 1) "pip3 install opencv-python"
 2) "pip3 install numpy"
 3) " python -m pip install requests"
